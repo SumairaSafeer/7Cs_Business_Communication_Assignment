@@ -90,10 +90,11 @@ By consistently applying the **7 Cs** (Clear, Concise, Concrete, Correct, Cohere
 ---
 
 ## 7. Prepared By
+
 **Sumaira Safeer**  
-FA22-BCE-019  
-BS Computer Engineering  
+Computer Engineer 
 COMSATS University Islamabad, Attock Campus  
+[LinkedIn](https://www.linkedin.com/in/sumaira-safeer-948804418/)
 
 ---
 
